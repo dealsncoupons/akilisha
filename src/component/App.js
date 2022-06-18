@@ -1,5 +1,5 @@
 import './App.css';
-import firebase from '../state/FirebaseConfig';
+// import firebase from '../state/FirebaseConfig';
 
 function App() {
   return (
