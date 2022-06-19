@@ -1,4 +1,4 @@
-import { auth } from '../state/firebaseConfig';
+import { auth } from '../state/firebase-config';
 import {
     onAuthStateChanged,
     createUserWithEmailAndPassword,
