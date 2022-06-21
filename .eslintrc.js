@@ -13,9 +13,8 @@ module.exports = {
 	"parserOptions": {
 		"ecmaFeatures": {
 			"jsx": true,
-			"modules": true,
 		},
-		"ecmaVersion": "latest",
+		"ecmaVersion": "12",
 		"sourceType": "module"
 	},
 	"plugins": [
