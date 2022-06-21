@@ -1,7 +1,7 @@
 import { useState } from "react";
 import firebaseAuthService from "../service/firebase-auth";
 
-function LoginForm({ user }) {
+function RegisterForm({ user }) {
 
     const [username, setUserName] = useState('');
     const [password, setPassword] = useState('');
@@ -56,4 +56,4 @@ function LoginForm({ user }) {
 }
 
 
-export default LoginForm;
+export default RegisterForm;
